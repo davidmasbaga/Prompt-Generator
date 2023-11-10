@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+
+  background: white;
+  
+}
+
+a{
+  color:slateblue;
+  font-weight: 500;
+  text-decoration: underline;
+  
+}

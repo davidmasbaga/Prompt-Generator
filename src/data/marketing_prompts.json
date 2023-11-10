@@ -1,0 +1,2454 @@
+[
+    {
+        "No.": 1,
+        "prompt_description": "Generate Topic Ideas",
+        "base_prompt": "Suggest X topic ideas related to <keyword>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 2,
+        "prompt_description": "Write Catchy Headlines",
+        "base_prompt": "Suggest X catchy headlines for <description of the webpage here>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 3,
+        "prompt_description": "Prepare Content Outline",
+        "base_prompt": "Prepare a content outline for <page description here>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 4,
+        "prompt_description": "Build a Reader Persona",
+        "base_prompt": "Build a reader persona for a <page description>.",
+        "final": false,
+        "category": "Creative Strategy"
+    },
+    {
+        "No.": 5,
+        "prompt_description": "Sprinkle Some Creative Magic",
+        "base_prompt": "Make the following content more creative <your content here>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 6,
+        "prompt_description": "Craft Effective Emails",
+        "base_prompt": "Write a mail to <recipient details> on behalf of <sender\u2019s details> regarding <other information>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 7,
+        "prompt_description": "Write Social Media Captions",
+        "base_prompt": "Write an Instagram caption for <description>.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 8,
+        "prompt_description": "Get Tagline Suggestions",
+        "base_prompt": "Provide me X tagline suggestions for <product/service/company\u2019s description>.",
+        "final": false,
+        "category": "Creative Strategy"
+    },
+    {
+        "No.": 9,
+        "prompt_description": "Add Metaphors to Copy",
+        "base_prompt": "Suggest X metaphors to describe the benefits of <product/service>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 10,
+        "prompt_description": "Translate Features into Benefits",
+        "base_prompt": "Translate the following features of <product/service name> into benefits: <list of features>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 11,
+        "prompt_description": "Simplify Content Readability",
+        "base_prompt": "Simplify the following content and make it easy to read even for the Grade 6 kids. <content>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 12,
+        "prompt_description": "Cut the Fluff Out",
+        "base_prompt": "Cut down the unnecessary part and keep the following content to the point: <content>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 13,
+        "prompt_description": "Improvise Grammar",
+        "base_prompt": "Improvise the grammar of the following, and provide me with suggestions (if any) <content>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 14,
+        "prompt_description": "Rephrase Content",
+        "base_prompt": "Rephrase the following content <content>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 15,
+        "prompt_description": "Write Powerful CTAs",
+        "base_prompt": "Write a powerful CTA for <description>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 16,
+        "prompt_description": "Write Video Scripts",
+        "base_prompt": "Write a video script for <video description>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 17,
+        "prompt_description": "Translate Copy into Different Languages",
+        "base_prompt": "Translate the following into <target language> <content>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 18,
+        "prompt_description": "Add Facts & Figures to the Content",
+        "base_prompt": "Provide me a list of facts and figures related to <topic>, along with links to sources.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 19,
+        "prompt_description": "Find Frequently Asked Questions",
+        "base_prompt": "List down the FAQs related to <topic/product/service>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 20,
+        "prompt_description": "Identify Topical Gaps",
+        "base_prompt": "Find topical gaps in the following outline <content outline>.",
+        "final": false,
+        "category": "Content Creation"
+    },
+    {
+        "No.": 21,
+        "prompt_description": "Improvise Your Copy",
+        "base_prompt": "Improvise the following copy <content>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 22,
+        "prompt_description": "Headlines",
+        "base_prompt": "Generate a headline that summarizes the following text.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 23,
+        "prompt_description": "Headlines",
+        "base_prompt": "Write a headline that captures the essence of [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 24,
+        "prompt_description": "Headlines",
+        "base_prompt": "Create a headline that is [number] words long.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 25,
+        "prompt_description": "Headlines",
+        "base_prompt": "Compose a headline with a pun related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 26,
+        "prompt_description": "Headlines",
+        "base_prompt": "Write a headline that is [emotion]-inducing.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 27,
+        "prompt_description": "Headlines",
+        "base_prompt": "Make a headline that is a question related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 28,
+        "prompt_description": "Headlines",
+        "base_prompt": "Generate a headline that uses [power word].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 29,
+        "prompt_description": "Headlines",
+        "base_prompt": "Write a headline that is [adjective]-packed.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 30,
+        "prompt_description": "Headlines",
+        "base_prompt": "Craft a headline that starts with [number/percentage].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 31,
+        "prompt_description": "Headlines",
+        "base_prompt": "Generate a headline that alludes to [famous quote/saying].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 32,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Write an engaging introduction for a blog post about [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 33,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Create a hook for a blog post about [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 34,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Write a provocative opening statement for a blog post about [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 35,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Start a blog post on [topic] with a surprising fact or statistic.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 36,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Begin a blog post on [topic] with a personal story or anecdote.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 37,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Introduce a blog post on [topic] with a question that intrigues the reader.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 38,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Write a attention-grabbing lead-in for a blog post about [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 39,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Start a blog post on [topic] with a bold statement or opinion.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 40,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Write an opening that sets the stage for a blog post on [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 41,
+        "prompt_description": "Blog post intros",
+        "base_prompt": "Compose an introduction for a blog post on [topic] that clearly defines the purpose.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 42,
+        "prompt_description": "Content research",
+        "base_prompt": "Find 5 recent articles about [topic] and summarize their key points.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 43,
+        "prompt_description": "Content research",
+        "base_prompt": "List the top 10 keywords related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 44,
+        "prompt_description": "Content research",
+        "base_prompt": "What are the main challenges/problems related to [topic]?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 45,
+        "prompt_description": "Content research",
+        "base_prompt": "Research and provide statistics on [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 46,
+        "prompt_description": "Content research",
+        "base_prompt": "Find 5 influencers in the [industry/field] and summarize their expertise.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 47,
+        "prompt_description": "Content research",
+        "base_prompt": "What are the latest trends in [topic]?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 48,
+        "prompt_description": "Content research",
+        "base_prompt": "What are the top 5 questions people ask about [topic]?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 49,
+        "prompt_description": "Content research",
+        "base_prompt": "Find 5 successful examples of [topic] and analyze their success factors.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 50,
+        "prompt_description": "Content research",
+        "base_prompt": "List 10 potential topics for [type of content] related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 51,
+        "prompt_description": "Content research",
+        "base_prompt": "What are the top 3 competitors in [industry/field] and compare their offerings for [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 52,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a comprehensive guide about [topic] for [target audience].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 53,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write an opinion piece about [hot topic] from the perspective of [industry/field].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 54,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a how-to blog post about [skill/task] for beginners.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 55,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a case study about [company/brand] and their success with [strategy/solution].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 56,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a thought-provoking article about [controversial topic] and provide different perspectives.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 57,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a review of [product/service] and its impact on [industry/field].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 58,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write an inspiring story about [person/group] and their journey to [achievement/accomplishment].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 59,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a list of [number] tips for [topic] backed by research and expert opinions.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 60,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a comprehensive comparison of [product/service 1] vs [product/service 2] for [target audience].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 61,
+        "prompt_description": "Blog posts",
+        "base_prompt": "Write a round-up post of the [number] best [topic] resources for [target audience].",
+        "Selection (Only One)": "Yes",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 62,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Generate a list of 10 related keywords for [target keyword].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 63,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Find 10 long-tail keywords for [main keyword].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 64,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Identify 10 high-traffic, low-competition keywords for [industry/niche].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 65,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Determine the search volume and competition for [target keyword].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 66,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Research and suggest 10 keywords for a [location-based] search for [industry/niche].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 67,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Find 10 keywords with a high commercial intent for [product/service].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 68,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Create a list of 10 related keyword phrases for [main keyword].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 69,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Write 10 question-based keywords related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 70,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Identify 10 keywords with high potential for voice search related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 71,
+        "prompt_description": "Keyword research",
+        "base_prompt": "Generate 10 keywords with high potential for featured snippets related to [topic].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 72,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Write a sales letter that persuades [target audience].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 73,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Write a sales letter that highlights the unique points.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 74,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Craft a sales letter that addresses [specific pain point].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 75,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Write a sales letter that includes a time-sensitive offer.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 76,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Create a sales letter that focuses on [product feature].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 77,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Write a sales letter that includes testimonials.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 78,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Craft a sales letter that includes a money-back guarantee.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 79,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Write a sales letter that includes a call-to-action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 80,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Create a sales letter that includes a special bonus offer.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 81,
+        "prompt_description": "Sales letters",
+        "base_prompt": "Write a sales letter that includes a FAQ section.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 82,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Write a testimonial for [product/service].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 83,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Write a testimonial emphasizing the [key benefit].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 84,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Craft a testimonial that includes a before-and-after scenario.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 85,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Write a testimonial that includes specific results.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 86,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Create a testimonial that includes a personal story.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 87,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Write a testimonial that addresses common objections.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 88,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Craft a testimonial that includes a call-to-action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 89,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Write a testimonial that includes a photo or video.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 90,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Create a testimonial that includes a quote from an expert.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 91,
+        "prompt_description": "Testimonials",
+        "base_prompt": "Write a testimonial that includes social proof.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 92,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Write a personal introduction email to [prospective client].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 93,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Compose a follow-up email after [event/meeting].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 94,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Write an email to request a meeting with [person/organization].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 95,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Craft an email to announce a new product or service.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 96,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Write an email to ask for a testimonial or review.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 97,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Compose an email to ask for a referral.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 98,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Write an email to re-engage inactive customers.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 99,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Craft an email to announce a special offer or promotion.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 100,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Write an email to announce a company update or news.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 101,
+        "prompt_description": "Outreach emails",
+        "base_prompt": "Compose an email to ask for feedback or a survey.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 102,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Write 10 tweets about [topic] in under 280 characters each.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 103,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Compose a series of tweets that tell a story about [topic].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 104,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Write a Twitter thread that educates people about [topic].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 105,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Craft a Twitter thread that debunks myths about [topic].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 106,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Write a Twitter thread that includes a call-to-action.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 107,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Compose a Twitter thread that includes visuals or media.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 108,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Write a Twitter thread that includes quotes or testimonials.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 109,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Craft a Twitter thread that includes a poll or question.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 110,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Write a Twitter thread that includes a giveaway or contest.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 111,
+        "prompt_description": "Twitter threads",
+        "base_prompt": "Compose a Twitter thread that includes a summary or conclusion.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 112,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description for [product name].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 113,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Create a catchy tagline for [product name].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 114,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that focuses on [feature/benefit].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 115,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Craft a product description that includes testimonials.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 116,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes a FAQ section.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 117,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Create a product description that includes a money-back guarantee.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 118,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes a special offer.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 119,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Craft a product description that includes a call-to-action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 120,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes technical specifications.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 121,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Create a product description that includes usage instructions.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 122,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes care instructions.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 123,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Craft a product description that includes warranty information.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 124,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes shipping information.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 125,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Create a product description that includes a size guide.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 126,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes a video demonstration.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 127,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Craft a product description that includes customer reviews.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 128,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes a comparison chart.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 129,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Create a product description that includes a bundle offer.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 130,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Write a product description that includes a limited-time offer.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 131,
+        "prompt_description": "Product descriptions",
+        "base_prompt": "Craft a product description that includes a seasonal promotion.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 132,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Develop two promotional emails for a conference on digital marketing trends. Cover the following topics: emerging technology, automation, personalization, and data-driven decision-making.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 133,
+        "prompt_description": "Market Segmentation",
+        "base_prompt": "Explain the marketing segments for [INSERT INDUSTRY]. Outline the potential opportunities within each segment and recommend which one we should target first.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 134,
+        "prompt_description": "Social Media",
+        "base_prompt": "Write a thirty-second TikTok script for a healthy snack brand. The video script should be funny and appeal to a Gen Z audience.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 135,
+        "prompt_description": "Google Ads",
+        "base_prompt": "Write three Google Ad headlines to take people to this landing page [INSERT URL].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 136,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Re-write this email to appeal to social media marketers [INSERT EMAIL].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 137,
+        "prompt_description": "Social Media",
+        "base_prompt": "Re-write this Instagram post for Twitter. Keep the post to 250 characters. [INSERT POST].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 138,
+        "prompt_description": "Content Marketing",
+        "base_prompt": "Summarize this white paper into bullet points for an Instagram caption [INSERT WHITEPAPER].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 139,
+        "prompt_description": "Customer Pain Points",
+        "base_prompt": "Explain the biggest pain points a buyer in enterprise social media management software has before making a purchase. Follow up with tips for addressing these pain points in our product.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 140,
+        "prompt_description": "SEO",
+        "base_prompt": "Write a title tag and meta description for a blog post titled [INSERT TITLE HERE].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 141,
+        "prompt_description": "Content Marketing",
+        "base_prompt": "Generate four title options for a blog post about [INSERT TOPICS HERE], use the following keywords in the title [INSERT KEYWORDS].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 142,
+        "prompt_description": "Social Media",
+        "base_prompt": "Write a social media post about the launch of our new product [DESCRIBE PRODUCT] for [SOCIAL PLATFORM (Instagram, TikTok, etc.)].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 143,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Write a personalized landing page headline that speaks to our ideal customer [INSERT CUSTOMER DETAILS].",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 144,
+        "prompt_description": "Webinar",
+        "base_prompt": "Develop three unique product pitch ideas for a webinar on the topic of [INSERT TOPIC].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 145,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Create four different email subject lines to promote our upcoming webinar on the topic of [INSERT TOPIC].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 146,
+        "prompt_description": "Social Media",
+        "base_prompt": "Generate five ideas for creating content on Instagram around the topic of [INSERT TOPIC].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 147,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Write three compelling call-to-action messages to use on a landing page for our new product [INSERT PRODUCT DETAILS].",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 148,
+        "prompt_description": "Copywriting",
+        "base_prompt": "Develop four unique copywriting headline ideas related to our latest product launch.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 149,
+        "prompt_description": "Taglines",
+        "base_prompt": "Write five promotional taglines that will attract customers to our website and products.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 150,
+        "prompt_description": "Chatbot",
+        "base_prompt": "Write a chatbot script for a virtual assistant to help customers with product inquiries.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 151,
+        "prompt_description": "Customer Service",
+        "base_prompt": "Write a chatbot script for a customer service representative to handle frequently asked questions and concerns.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 152,
+        "prompt_description": "SEO",
+        "base_prompt": "Generate a list of keywords for an SEO campaign related to our latest product launch. Include long-tail keywords and low-competition keywords.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 153,
+        "prompt_description": "Video Marketing",
+        "base_prompt": "Write a script for a video ad that promotes our newest product feature.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 154,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Develop three ideas for content to include in an email drip campaign for new customers.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 155,
+        "prompt_description": "Social Media",
+        "base_prompt": "Generate four possible titles and descriptions for an Instagram post about our company\u2019s brand values, those are [INSERT VALUES].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 156,
+        "prompt_description": "Copywriting",
+        "base_prompt": "Create five pieces of compelling copy that will encourage customers to sign up for our email list.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 157,
+        "prompt_description": "Social Media",
+        "base_prompt": "Write an Instagram caption for a new iced matcha latte drink our coffee shop is launching for summer.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 158,
+        "prompt_description": "Google Ads",
+        "base_prompt": "Develop four unique concepts for Google ad campaigns that will target customers in the following locations [INSERT LOCATIONS].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 159,
+        "prompt_description": "Video Marketing",
+        "base_prompt": "Write a script for an explainer video about our company\u2019s products and services.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 160,
+        "prompt_description": "Social Media",
+        "base_prompt": "Create a three-month social media campaign outline for a new flavored sparkling water beverage.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 161,
+        "prompt_description": "Sales Funnel",
+        "base_prompt": "Develop a sales funnel for a new home security system. Include emails, ads, and landing pages that will convert leads into paying customers.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 162,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Write an email to thank customers for purchasing our product during the holiday season.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 163,
+        "prompt_description": "Content Marketing",
+        "base_prompt": "Write a compelling intro to a blog post about the best bathing suits for every body type. Include the following keywords [INSERT KEYWORDS].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 164,
+        "prompt_description": "Online Course",
+        "base_prompt": "Write a two-minute script for an online course about digital marketing for small businesses.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 165,
+        "prompt_description": "Customer Journey",
+        "base_prompt": "Outline the customer journey for a new subscription box service, including emails, ads, and landing pages.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 166,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Develop four ideas for content to include in an email drip campaign for customers who have been inactive for six months.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 167,
+        "prompt_description": "Social Media",
+        "base_prompt": "Generate five possible titles and descriptions for a LinkedIn post about our company\u2019s mission and values.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 168,
+        "prompt_description": "Web Design",
+        "base_prompt": "Create two website banners that promote our spring break sale. Include information about the following products: [INSERT PRODUCT INFO].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 169,
+        "prompt_description": "Social Media",
+        "base_prompt": "Write an Instagram ad promoting a new line of cosmetics, highlighting the natural ingredients and long-lasting wear.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 170,
+        "prompt_description": "Customer Reviews",
+        "base_prompt": "Develop three ideas for encouraging customers to leave reviews and ratings about our products on Amazon.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 171,
+        "prompt_description": "Influencer Marketing",
+        "base_prompt": "Create an email template to send to influencer partners, asking them to promote our products and services on their channels.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 172,
+        "prompt_description": "Social Media",
+        "base_prompt": "Write a Twitter post about an upcoming holiday [INSERT HOLIDAY] and explain why it matters to our brand [INSERT BRAND VALUES].",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 173,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Build an email funnel for the [INSERT INDUSTRY] industry that will nurture and convert leads into paying customers.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 174,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Create a marketing email that promotes our holiday sale.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 175,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Write a persuasive email to convince customers to sign up for our loyalty program.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 176,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Develop three ideas for content to include in an email nurture campaign for existing customers.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 177,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Create a series of automated emails that will inform customers about new products or services and encourage them to purchase.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 178,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Write four subject lines and pre-headers for a promotional email about our company\u2019s upcoming event [INSERT EVENT INFO].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 179,
+        "prompt_description": "Social Media",
+        "base_prompt": "Generate three examples of a Facebook ad headline that will drive more clicks and conversions to our online shop.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 180,
+        "prompt_description": "Content Marketing",
+        "base_prompt": "Write an engaging blog post about the advantages of using our products compared to other solutions in the market. [INSERT PRODUCT DETAILS].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 181,
+        "prompt_description": "Video Marketing",
+        "base_prompt": "Generate five ideas for YouTube videos around the topic of _____ [INSERT TOPIC].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 182,
+        "prompt_description": "Press Release",
+        "base_prompt": "Write a compelling press release about our latest product launch, emphasizing the benefits of the new features.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 183,
+        "prompt_description": "ChatGPT for Email Marketing",
+        "base_prompt": "Write marketing copy to make my email marketing more engaging. The product I am promoting is called X. What subject lines would you suggest for a sequence of Y emails?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 184,
+        "prompt_description": "ChatGPT for Email Marketing",
+        "base_prompt": "Write a cold outbound email to a prospective customer for our product X (e.g., company, product, service, or organization).",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 185,
+        "prompt_description": "ChatGPT for Email Marketing",
+        "base_prompt": "Create an outline for a weekly newsletter for Y (target audience). The outline should have X parts, an intro, a main point, and a conclusion with a call to action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 186,
+        "prompt_description": "Social Media Campaign Planning",
+        "base_prompt": "Craft a one-month social media campaign calendar for our X product with the goal to Y and mention the relevant channels to focus.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 187,
+        "prompt_description": "Ad Strategy",
+        "base_prompt": "Write an AIDA for <insert product or service>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 188,
+        "prompt_description": "Instagram Marketing",
+        "base_prompt": "Write a short Instagram caption for a photo of our new X (e.g., company, product, or service)",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 189,
+        "prompt_description": "Twitter Marketing",
+        "base_prompt": "Write a Twitter thread of 5 tweets talking about <topic>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 190,
+        "prompt_description": "LinkedIn Marketing",
+        "base_prompt": "Create a promotional LinkedIn post about the X (e.g., company, product or service)",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 191,
+        "prompt_description": "Facebook Marketing",
+        "base_prompt": "Write 3 Facebook ad copy options for your product with its USP",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 192,
+        "prompt_description": "Viral Hooks",
+        "base_prompt": "Can you take these <number of hooks> viral hook formulas and give me another 3 options: <Viral hook formula 1>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 193,
+        "prompt_description": "Podcast",
+        "base_prompt": "Write a script for a podcast episode discussing <topic of your choice>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 194,
+        "prompt_description": "Product Launch on Podcast",
+        "base_prompt": "Write a script for a virtual product launch event that will keep the audience engaged",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 195,
+        "prompt_description": "YouTube",
+        "base_prompt": "Write a list of 10 catchy and descriptive YouTube video titles for <Topic of your choice>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 196,
+        "prompt_description": "Ad Campaign Planning",
+        "base_prompt": "Create an advertising campaign for X (product, company or service) targeting Y (target audience)",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 197,
+        "prompt_description": "Google/Facebook Ads Headlines",
+        "base_prompt": "Write 10 google ad headlines from <Website URL or reference page URL>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 198,
+        "prompt_description": "Google/Facebook Ads Description",
+        "base_prompt": "Write X google ads description for <URL>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 199,
+        "prompt_description": "Ad Creatives",
+        "base_prompt": "Generate an image for <required channel> for a <your product or service>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 200,
+        "prompt_description": "Ad Translation",
+        "base_prompt": "Translate into <required language> for the following sentences <Sentences required for translation>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 201,
+        "prompt_description": "Understand Your Customer",
+        "base_prompt": "You are an X (e.g., persona or target audience). List common challenges that you face.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 202,
+        "prompt_description": "Generate Product Ideas",
+        "base_prompt": "Create a list of X potential product ideas for a X (e.g., company, product or service)",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 203,
+        "prompt_description": "Market Research",
+        "base_prompt": "What are the key market segments in the X industry, and which one represents the biggest opportunity for our Y?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 204,
+        "prompt_description": "Customer Profile",
+        "base_prompt": "Create a customer persona for our target market for the X product",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 205,
+        "prompt_description": "Understand Pain Points",
+        "base_prompt": "What are the pain points and challenges faced by our target customers for the X product?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 206,
+        "prompt_description": "Competitor Comparison",
+        "base_prompt": "Write a product comparison chart between our X product and its main competitors",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 207,
+        "prompt_description": "Product Use Cases",
+        "base_prompt": "Generate a list of common use cases for our X product and how it can be used in different industries",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 208,
+        "prompt_description": "Gantt Chart",
+        "base_prompt": "Create a Gantt chart outlining the key tasks and timelines for the development of your X feature",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 209,
+        "prompt_description": "Product Launch Timeline",
+        "base_prompt": "Develop a timeline for the launch of our new X product, including key tasks and deadlines",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 210,
+        "prompt_description": "Go-to-Market Strategy",
+        "base_prompt": "What are the most effective marketing channels for our X product?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 211,
+        "prompt_description": "Market Segmentation",
+        "base_prompt": "How can we target and segment our market for our X product?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 212,
+        "prompt_description": "Brand Identity",
+        "base_prompt": "How can we create a strong brand identity and messaging for our X product?",
+        "final": false,
+        "category": "Branding"
+    },
+    {
+        "No.": 213,
+        "prompt_description": "Go-to-Market Metrics",
+        "base_prompt": "What are the key metrics we should track to measure the success of our X product\u2019s go-to-market strategy?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 214,
+        "prompt_description": "Product Performance Metrics",
+        "base_prompt": "What are the key metrics we should track to measure the performance of our X product?",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 215,
+        "prompt_description": "Calculating ROI",
+        "base_prompt": "Calculate the Return on Marketing Investment for a Radio advertising campaign costing \u00a340,000 with an expected Contribution Margin of \u00a3200,000",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 216,
+        "prompt_description": "Calculating CAC",
+        "base_prompt": "Calculate the Customer Acquisition Cost (CAC) for a marketing campaign that cost $100 and resulted in 5 new customers",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 217,
+        "prompt_description": "Basic On-Page SEO Analysis",
+        "base_prompt": "Conduct an On-page SEO audit of the following webpage <URL>",
+        "final": false,
+        "category": "SEO"
+    },
+    {
+        "No.": 218,
+        "prompt_description": "Build Keyword Lists",
+        "base_prompt": "Write down 10 relevant keyword ideas for the term <topic>",
+        "final": false,
+        "category": "SEO"
+    },
+    {
+        "No.": 219,
+        "prompt_description": "Brainstorm Content Topics",
+        "base_prompt": "List 10 content ideas on the topic <topic> that would have higher chances of ranking on the first page of Google",
+        "final": false,
+        "category": "SEO"
+    },
+    {
+        "No.": 220,
+        "prompt_description": "Generate Meta Descriptions",
+        "base_prompt": "Generate a meta description of a maximum of <155 characters>, for a webpage about <topic of your choice>",
+        "final": false,
+        "category": "SEO"
+    },
+    {
+        "No.": 221,
+        "prompt_description": "Landing Page Copy",
+        "base_prompt": "What should my above-the-fold copy for my landing page be for selling an X (e.g., product)?",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 222,
+        "prompt_description": "Content Distribution Plan",
+        "base_prompt": "Write a content distribution plan for <URL>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 223,
+        "prompt_description": "Sentiment Analysis",
+        "base_prompt": "Help me perform sentiment analysis for the following content <content>",
+        "final": false,
+        "category": "Analytics"
+    },
+    {
+        "No.": 224,
+        "prompt_description": "Content Research",
+        "base_prompt": "Recommend X popular blogs about {Topic of choice} that cover {Keywords} and add their respective URLs",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 225,
+        "prompt_description": "Email Subject Lines",
+        "base_prompt": "Craft 10 catchy email subject lines for [buyer persona] for a campaign around [product/service].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 226,
+        "prompt_description": "Email Subject Lines",
+        "base_prompt": "Craft 10 witty email subject lines for a newsletter around [topic/niche].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 227,
+        "prompt_description": "Email Subject Lines",
+        "base_prompt": "Craft 10 promotional email subject lines for the [launch/sale/limited time offer] of [product/service].",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 228,
+        "prompt_description": "Email Campaign (AIDA Framework)",
+        "base_prompt": "Craft an email campaign for [buyer persona] to motivate them to [action] our [product/service] using the AIDA (Attention, Interest, Desire, Action) framework.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 229,
+        "prompt_description": "Product Description (FAB Framework)",
+        "base_prompt": "Using the FAB (Features, Advantages, Benefits) framework, create a product description that introduces [feature] of [product/service], explains its advantages to [buyer persona], and how it helps them achieve their goals.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 230,
+        "prompt_description": "Email Campaign (BAB Framework)",
+        "base_prompt": "Craft an email campaign using the BAB (Before, After, Bridge) framework that introduces [problem] faced by [buyer persona], describes life after using [product/service], and explains how it helps transition from problem to solution.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 231,
+        "prompt_description": "Email/Social Media Campaign (PAS Framework)",
+        "base_prompt": "Craft an [email campaign/social media post] using the PAS (Problem, Agitate, Solution) framework that introduces [problem] solved by [product/service], exacerbates the problem, and presents [product/service] as a solution.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 232,
+        "prompt_description": "Social Media Campaign (SLAP Framework)",
+        "base_prompt": "Using the SLAP (Stop, Look, Act, Purchase) framework, craft an opening sentence that grabs attention, presents the [offer/benefit], creates a call to action to [action], and includes [guarantee/risk reversal] to remove hesitation about [action].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 233,
+        "prompt_description": "Features-Advantages-Benefits (Framework)",
+        "base_prompt": "Write an email marketing campaign highlighting the [features] of our [product/service], explaining how these [advantages] can be helpful to [ideal customer persona], and elaborating on the [benefits].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 234,
+        "prompt_description": "PASTOR (Framework)",
+        "base_prompt": "Write an email marketing campaign using the PASTOR framework to address [ideal customer persona]'s pain points and present our [product/service] as the solution.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 235,
+        "prompt_description": "Before-After-Bridge (Framework)",
+        "base_prompt": "Write an email marketing campaign presenting the current situation with a [problem] faced by [ideal customer persona], showing the world after using our [product/service], and providing a [bridge] to show how they can get to that improved state.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 236,
+        "prompt_description": "Attention-Interest-Desire-Action (Framework)",
+        "base_prompt": "Write an email marketing campaign to grab [ideal customer persona]'s attention and persuade them to take action, starting with a bold statement, presenting interesting information, stating the benefits of our [product/service], and asking for a sign-up or purchase.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 237,
+        "prompt_description": "Problem-Agitate-Solve (Framework)",
+        "base_prompt": "Write an email marketing campaign identifying the most painful [problem] faced by [ideal customer persona], agitating the issue, and presenting our [product/service] as the logical solution.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 238,
+        "prompt_description": "Picture-Promise-Prove-Push (Framework)",
+        "base_prompt": "Write an email marketing campaign painting a picture that gets attention and creates desire for our [product/service] in [ideal customer persona], describing how our product will deliver on its promises, providing testimonials, and giving a little push to encourage the reader to take action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 239,
+        "prompt_description": "Star-Story-Solution (Framework)",
+        "base_prompt": "Write an email marketing campaign introducing the main character of a [story] related to our [product/service] and ending the story with an explanation of how the star wins in the end with the help of our product.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 240,
+        "prompt_description": "Awareness-Comprehension-Conviction-Action (Framework)",
+        "base_prompt": "Write an email marketing campaign presenting the situation or [problem] faced by [ideal customer persona], helping them understand it, creating the desired conviction in the reader to use our [product/service], and making them take action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 241,
+        "prompt_description": "5 Basic Objections (Framework)",
+        "base_prompt": "Write an email marketing campaign addressing and refuting [ideal customer persona]'s common objections: lack of time, lack of money, concerns that the product won't work for them, lack of belief in the product or company, and the belief that they don't need the product.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 242,
+        "prompt_description": "Four C's (Framework)",
+        "base_prompt": "Write an email marketing campaign creating clear, concise, compelling, and credible copy for [ideal customer persona], ensuring that our message is effectively communicated and persuades the reader to take action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 243,
+        "prompt_description": "Consistent-Contrasting (Framework)",
+        "base_prompt": "Write an email marketing campaign using a consistent message or theme throughout the copy, but incorporate contrasting language or images to draw the reader's attention and keep them engaged.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 244,
+        "prompt_description": "Strong-Weak (Framework)",
+        "base_prompt": "Write an email marketing campaign using strong language and images to emphasize the benefits of our [product/service], but also acknowledge any potential weaknesses or limitations in a transparent and honest way.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 245,
+        "prompt_description": "Emotion-Logic (Framework)",
+        "base_prompt": "Write an email marketing campaign that connects with [ideal customer persona] and creates desire for our [product/service], using emotional appeals to connect with the reader, but also using logical arguments to convince them to take action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 246,
+        "prompt_description": "Personal-Universal (Framework)",
+        "base_prompt": "Write an email marketing campaign making our [product/service] relatable to [ideal customer persona], using \"you\" language and addressing their specific needs and desires, but also connecting our product to universal human experiences and values.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 247,
+        "prompt_description": "Urgency-Patience (Framework)",
+        "base_prompt": "Write an email marketing campaign encouraging [ideal customer persona] to take action, creating a sense of urgency to encourage the reader to act now, but also reminding them that using our [product/service] will bring long-term benefits that are worth waiting for.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 248,
+        "prompt_description": "Expectation-Surprise (Framework)",
+        "base_prompt": "Write an email marketing campaign generating interest and encouraging action from [ideal customer persona], setting expectations for the reader about what they can expect from our [product/service], but then surprising them with unexpected benefits or features that exceed those expectations.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 249,
+        "prompt_description": "Exclusive-Inclusive (Framework)",
+        "base_prompt": "Write an email marketing campaign positioning our [product/service] as elite and desirable to [ideal customer persona], making it clear that our product is exclusive or elite in some way, but also emphasizing that it is accessible and inclusive to a wide range of customers.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 250,
+        "prompt_description": "Positive-Negative (Framework)",
+        "base_prompt": "Write an email marketing campaign focusing on the positive aspects of our [product/service] and the benefits it will bring to [ideal customer persona], also acknowledging and addressing any potential negative consequences or drawbacks in a constructive way.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 251,
+        "prompt_description": "Past-Present-Future (Framework)",
+        "base_prompt": "Write an email marketing campaign connecting our [product/service] to [ideal customer persona]'s past experiences or memories, showing how it can improve their present situation, and then showing how it can shape their future in a positive way.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 252,
+        "prompt_description": "Friend-Expert (Framework)",
+        "base_prompt": "Write an email marketing campaign establishing a connection with [ideal customer persona] and positioning our brand or [product/service] as an expert in our field, using a friendly and approachable tone to connect with the reader, but also highlighting our credibility and expertise in our field.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 253,
+        "prompt_description": "Pain-Agitate-Relief (Framework)",
+        "base_prompt": "Write an email marketing campaign identifying the pain points faced by [ideal customer persona], amplifying the negative consequences of not addressing these pain points, and presenting our [product/service] as the solution that brings relief.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 254,
+        "prompt_description": "Solution-Savings-Social Proof (Framework)",
+        "base_prompt": "Write an email marketing campaign clearly stating the problem our",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 255,
+        "prompt_description": "Write a compelling text that speaks directly to the ideal customer persona",
+        "base_prompt": "Please write a compelling [type of text] that speaks directly to my [ideal customer persona] and encourages them to take [desired action] on my [website/product].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 256,
+        "prompt_description": "Create a persuasive text to encourage purchase",
+        "base_prompt": "I need a [type of text] that will persuade [ideal customer persona] to purchase my [product/service] by highlighting its unique benefits and addressing any potential objections.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 257,
+        "prompt_description": "Craft a text that convinces to sign up for a program",
+        "base_prompt": "I\u2019m looking for a [type of text] that will convince [ideal customer persona] to sign up for my [program/subscription] by explaining the value it brings and the benefits they\u2019ll receive.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 258,
+        "prompt_description": "Create an emotional text to encourage action",
+        "base_prompt": "I need a [type of text] that will make my [ideal customer persona] feel [emotion] about my [product/service] and convince them to take [desired action].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 259,
+        "prompt_description": "Write a clear and concise text to encourage purchase",
+        "base_prompt": "I\u2019m looking for a [type of text] that will explain the features and benefits of my [product/service] to [ideal customer persona] in a clear and concise manner, leading them to make a purchase.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 260,
+        "prompt_description": "Address pain points and needs",
+        "base_prompt": "I need a [type of text] that will address the pain points and needs of my [ideal customer persona] and show them how my [product/service] is the solution they\u2019ve been searching for.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 261,
+        "prompt_description": "Create a text with a strong headline and hook",
+        "base_prompt": "I\u2019m looking for a [type of text] that will draw in my [ideal customer persona] with a strong headline and hook, and then convince them to take [desired action] with persuasive language and compelling evidence.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 262,
+        "prompt_description": "Tell a story about the product/service",
+        "base_prompt": "I need a [type of text] that will tell a story about my [product/service] and how it has helped [ideal customer persona] achieve their [goal] in a relatable and engaging way.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 263,
+        "prompt_description": "Showcase unique features and benefits",
+        "base_prompt": "I\u2019m looking for a [type of text] that will showcase the unique features and benefits of my [product/service] to [ideal customer persona] and persuade them to make a purchase.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 264,
+        "prompt_description": "Overcome objections and concerns",
+        "base_prompt": "I need a [type of text] that will overcome objections and concerns my [ideal customer persona] may have about my [product/service] and convince them to take [desired action].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 265,
+        "prompt_description": "Establish trust and credibility",
+        "base_prompt": "I\u2019m looking for a [type of text] that will establish trust and credibility with my [ideal customer persona] by highlighting the successes and testimonials of previous customers who have used my [product/service].",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 266,
+        "prompt_description": "Create an emotional text with a sense of urgency",
+        "base_prompt": "I need a [type of text] that will make my [ideal customer persona] feel [emotion] about my [product/service] and persuade them to take [desired action] with a sense of urgency.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 267,
+        "prompt_description": "Clearly explain features and benefits with a strong CTA",
+        "base_prompt": "I\u2019m looking for a [type of text] that will clearly explain the features and benefits of my [product/service] to [ideal customer persona] and persuade them to make a purchase with a strong call-to-action.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 268,
+        "prompt_description": "Showcase value and benefits with social proof",
+        "base_prompt": "I need a [type of text] that will showcase the value and benefits of my [product/service] to [ideal customer persona] and convince them to take [desired action] with social proof and credibility-building elements.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 269,
+        "prompt_description": "Speak directly to needs and pain points with urgency",
+        "base_prompt": "I\u2019m looking for a [type of text] that will speak directly to the needs and pain points of my [ideal customer persona] and persuade them to take [desired action] with a sense of urgency and strong offer.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 270,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create an engaging Twitter thread on the topic of <insert topic>. Include <NUMBER> threads. Include related hashtags.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 271,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create <NUMBER> Instagram Story and Reels ideas for a <insert type of company> company that would be relevant to <TARGET AUDIENCE>.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 272,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create a <NUMBER>-month social media calendar for <INSERT TOPIC> with a goal of <INSERT GOAL>.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 273,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create a YouTube Channel description for a <COMPANY TYPE> company that targets <TARGET AUDIENCE>.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 274,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create <NUMBER> YouTube video strategies to <GOAL> for a <COMPANY TYPE> company.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 275,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create <NUMBER> engaging TikTok post ideas for a <COMPANY TYPE> company. Include relevant hashtags.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 276,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create <NUMBER> surprising infographic ideas on <TOPICS> that would be useful for <TARGET AUDIENCE>.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 277,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create persuasive <NUMBER> <PLATFORM> post ideas to encourage <TARGET AUDIENCE> to <GOAL>. Include relevant hashtags.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 278,
+        "prompt_description": "Social Media Marketing",
+        "base_prompt": "Create an informative carousel post with <NUMBER> slides based on this blog post: <BLOG URL>. Add a CTA to read the original blog post on the last slide.",
+        "final": false,
+        "category": "Social Media Marketing"
+    },
+    {
+        "No.": 279,
+        "prompt_description": "Advertising",
+        "base_prompt": "Write a captivating headline for our Facebook ad promoting <PRODUCT>, ensuring it grabs the attention of our target audience and conveys the main benefit or unique selling point. Our target audience is <TARGET AUDIENCE>. Our benefits are <BENEFITS>.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 280,
+        "prompt_description": "Advertising",
+        "base_prompt": "Craft a concise and persuasive ad copy for our Google Ads campaign targeting <KEYWORD>, focusing on the key features and advantages of <PRODUCT> based on this URL: <URL>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 281,
+        "prompt_description": "Advertising",
+        "base_prompt": "Develop a compelling LinkedIn ad for <PRODUCT> aimed at <TARGET AUDIENCE>, emphasizing the value proposition of <VALUE> and how it addresses their specific needs and pain points.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 282,
+        "prompt_description": "Advertising",
+        "base_prompt": "Create a strong call-to-action (CTA) for our Facebook ad that encourages users to click through to learn more about <PRODUCT> and take advantage of a limited-time offer of <OFFER>.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 283,
+        "prompt_description": "Advertising",
+        "base_prompt": "Compose an engaging and informative ad copy for our Google Ads campaign targeting <KEYWORD>, incorporating relevant ad extensions and ensuring the content is aligned with our target audience's search intent.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 284,
+        "prompt_description": "Advertising",
+        "base_prompt": "Write a persuasive LinkedIn ad for <PRODUCT> targeting <TARGET AUDIENCE>, focusing on the unique benefits and how it can help drive success in their specific roles. The unique benefits should include <BENEFITS>.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 285,
+        "prompt_description": "Advertising",
+        "base_prompt": "Develop a series of attention-grabbing headlines for our Facebook Carousel ad promoting <PRODUCT>, with each headline highlighting a different feature or benefit that appeals to our target audience. Use this product page as a guide: <URL>",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 286,
+        "prompt_description": "Advertising",
+        "base_prompt": "Craft a compelling ad copy for our Google Ads Remarketing campaign, targeting users who have previously visited our website and creating a sense of urgency, as well as adding our offer for exclusive promotion to entice them to take action. The offer is <OFFER>.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 287,
+        "prompt_description": "Advertising",
+        "base_prompt": "Create a LinkedIn InMail ad script that effectively promotes <PRODUCT> in a personalized and professional manner, focusing on the value proposition and inviting recipients to <GOAL>.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 288,
+        "prompt_description": "Advertising",
+        "base_prompt": "Compose a visually appealing and engaging ad creative for our Facebook video ad campaign, showcasing <PRODUCT> in action and highlighting the key features and benefits that set it apart from competitors. The key features are <FEATURES>. The benefits that set it apart from competitors are <BENEFITS>.",
+        "final": false,
+        "category": "Advertising"
+    },
+    {
+        "No.": 289,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Introduce the unique selling points of <PRODUCT> in a 30-second video ad script that showcases its products/services. Use the product features in this URL as a guide: <URL>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 290,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Craft a 45-second video ad script for <PRODUCT> that highlights the company's eco-friendly initiatives and green practices. The green practices are <PRACTICES>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 291,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Write a compelling 60-second video ad script for <PRODUCT> that focuses on the personal stories of satisfied customers. Use testimonials found on this site: <URL>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 292,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Compose a 45-second video ad script for <PRODUCT> that captures the essence of its brand identity and mission. The mission is <MISSION>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 293,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Create a 45-second video ad script for <COMPANY> that showcases our commitment to customer service and satisfaction. Use the following satisfaction guarantees: <GUARANTEES>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 294,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Write a 60-second video ad script for <COMPANY> that highlights its industry expertise and the benefits of partnering with them.Our industry expertise is <EXPERTISE>. The benefits of partnering with us are <BENEFITS>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 295,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Craft a 30-second video ad script for <PRODUCT> that focuses on its competitive pricing and special offers. Our special offers are <OFFERS>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 296,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Develop a 45-second video ad script for <COMPANY> that emphasizes our community involvement and support for local causes. The community involvement includes <ACTIVITIES>. The local causes supported are <CAUSES>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 297,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Create a 60-second video ad script for <COMPANY> that showcases its wide range of products/services and the value they provide. Our products and services are <PRODUCTS AND SERVICES>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 298,
+        "prompt_description": "Video Scripts",
+        "base_prompt": "Write a 30-second video ad script for <COMPANY> that highlights the company's innovation and cutting-edge features. Use the features mentioned on this page: <URL>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 299,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Write an engaging headline that highlights the key benefit of our product, <PRODUCT>, and sparks curiosity in potential customers. Our customers are <TARGET AUDIENCE>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 300,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Craft a compelling call-to-action for our email campaign that encourages subscribers to take advantage of our limited-time offer on <PRODUCT>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 301,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Describe the unique selling points of our product <PRODUCT>, in a concise and captivating way for use in social media ad copy. Use the product description from this website as a basis: <URL>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 302,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Create a persuasive product description for our new product,<PRODUCT>, that focuses on the problems it solves and the value it brings to customers. Use this webpage as inspiration: <URL>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 303,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Develop a captivating slogan for our brand, <BRAND NAME>, that communicates our core values and mission in a memorable way. Our core values are <VALUES> and our mission is <MISSION>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 304,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Compose an attention-grabbing opening line for our landing page that quickly captures the essence of <PRODUCT> and motivates visitors to learn more. Use this page as inspiration: <URL>",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 305,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Write a series of three engaging and informative bullet points highlighting the key features of <PRODUCT> for use in a product listing. Our key features are <FEATURES>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 306,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Create a persuasive testimonial from a satisfied customer for <PRODUCT> that showcases the benefits they experienced and encourages potential customers to purchase.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 307,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Craft an email subject line that grabs the reader's attention and entices them to open the email to learn more about <GOAL>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 308,
+        "prompt_description": "Copyrighting",
+        "base_prompt": "Develop a short and snappy tagline for our new marketing campaign that captures the campaign's main message and intrigues the target audience. Our main message is <MESSAGE>. Our target audience is <TARGET AUDIENCE>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 309,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Write a compelling headline for our landing page that captures the primary advantage of <PRODUCT> and instantly grabs the attention of website visitors. Use a <TONE> tone.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 310,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Craft an engaging and persuasive subheading for our landing page that complements the main headline and provides additional context about <PRODUCT>. Our main headline is <HEADLINE>",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 311,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Create an enticing call-to-action (CTA) for our landing page that motivates visitors to take the next step of <GOAL>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 312,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Compose a concise and captivating introduction for our landing page that quickly communicates the core benefits of <PRODUCT> and encourages visitors to continue to read the page. Our benefits are <BENEFITS>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 313,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Develop a series of three to five benefit-focused bullet points for our landing page that showcase the key advantages of using <PRODUCT>. Our key advantages are <ADVANTAGES>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 314,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Create an outline for a landing page about <TOPIC> with the goal of getting the reader to <GOAL>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 315,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Craft a compelling 'About Us' or 'Our Story' section for our landing page that communicates the mission, values, and unique aspects of our brand. Our mission is <MISSION>. Our values are <VALUES>. Our unique aspects are <ASPECTS>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 316,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Create a clear and concise 'How It Works' or 'Features' section for our landing page that effectively demonstrates the functionality and benefits of <PRODUCT>. Use content from this URL as a basis: <URL>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 317,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Compose an engaging and informative 'FAQ' section for our landing page that addresses common questions and concerns potential customers may have about <PRODUCT>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 318,
+        "prompt_description": "Landing Page",
+        "base_prompt": "Develop a strong closing statement or summary for our landing page that reinforces the key benefits and value proposition of <PRODUCT> and prompts visitors to <GOAL>.",
+        "final": false,
+        "category": "Web Design"
+    },
+    {
+        "No.": 319,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Draft an email to send to customers who have not purchased from <URL> in 6 months. Include an offer of <OFFER>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 320,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Create a 3-email lead nurture sequence outline for <TOPIC>. The first email should be an overview of <PRODUCT>. The second email should list our benefits, which are <BENEFITS>. The third email should convince users to <GOAL>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 321,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Create a sales email for customers who have shown interest in <PRODUCT>. Include a CTA of <GOAL>. Use a <TONE> tone.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 322,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Write a captivating email subject line that grabs the recipient's attention and entices them to open the email to learn more about <TOPIC>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 323,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Craft an engaging and persuasive introduction for our promotional email that quickly captures the essence of <PRODUCT> and motivates recipients to keep reading.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 324,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Create an enticing call-to-action for our email campaign that encourages subscribers to take advantage of a special offer or limited-time promotion on <PRODUCT>. The offer is <OFFER>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 325,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Compose a concise and informative product or service spotlight section for our email newsletter that showcases the unique features and benefits of <PRODUCT>. Use this product page as inspiration: <URL>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 326,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Develop a personalized and authentic customer success story for our email campaign that demonstrates the positive impact <PRODUCT> has had on a customer's life or business. The client's name is <CLIENT>, and the positive impacts are <IMPACTS>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 327,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Write a compelling announcement for our email subscribers about an upcoming event, webinar, or product launch related to <PRODUCT>, highlighting key details and benefits. The key details are <DETAILS>. The benefits are <BENEFITS>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 328,
+        "prompt_description": "Email Marketing",
+        "base_prompt": "Craft a valuable and informative content piece for our email newsletter, such as a how-to guide, tips and tricks, or industry insights, related to <PRODUCT>.",
+        "final": false,
+        "category": "Email Marketing"
+    },
+    {
+        "No.": 329,
+        "prompt_description": "SEO",
+        "base_prompt": "Create a list of the top <NUMBER> SEO keywords for a <COMPANY TYPE> product launch, including long-tail and high-performing keywords. Use inspiration from this URL: <URL>. Encourage users to <GOAL>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 330,
+        "prompt_description": "SEO",
+        "base_prompt": "Write a compelling and SEO-friendly title for our blog post about <TOPIC>, incorporating the primary keyword while ensuring it is engaging and accurately represents the content.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 331,
+        "prompt_description": "SEO",
+        "base_prompt": "Craft a concise and informative meta description for our web page about <PRODUCT>, incorporating relevant keywords and effectively summarizing the page's content to entice searchers to click.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 332,
+        "prompt_description": "SEO",
+        "base_prompt": "Create a well-researched and optimized long-form article on <TOPIC>, incorporating target keywords and related phrases in a natural and reader-friendly manner. Include a word limit of <LIMIT>. Include the following keywords <KEYWORDS>.",
+        "Selection (Only One)": "Yes",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 333,
+        "prompt_description": "SEO",
+        "base_prompt": "Compose a list of 5-10 target keywords and long-tail phrases for our upcoming content piece on <TOPIC>, considering search volume, competition, and relevance to our target audience. Our target audience is <AUDIENCE>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 334,
+        "prompt_description": "SEO",
+        "base_prompt": "Develop an SEO-optimized content outline for a comprehensive guide on <TOPIC>, including relevant headings and subheadings that incorporate target keywords and address key aspects of the subject matter.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 335,
+        "prompt_description": "SEO",
+        "base_prompt": "Write an engaging and keyword-rich introduction for our blog post about <TOPIC>, ensuring it is informative, attention-grabbing, and sets the tone for the rest of the article.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 336,
+        "prompt_description": "SEO",
+        "base_prompt": "Craft a series of SEO-friendly and shareable social media posts to promote our recent blog post on <TOPIC>, incorporating relevant hashtags and keywords to increase visibility and engagement.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 337,
+        "prompt_description": "SEO",
+        "base_prompt": "Create an internal linking strategy for our website content, identifying opportunities to link between relevant pages and articles to improve the user experience and boost SEO performance. Our website is: <URL>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 338,
+        "prompt_description": "SEO",
+        "base_prompt": "Compose a set of 5-10 optimized and attention-grabbing headlines for our upcoming article on <TOPIC>, incorporating target keywords while appealing to both search engines and human readers.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 339,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Create a <NUMBER>-month content calendar for a <COMPANY TYPE> company. Include <FORMATS>. Include <NUMBER> pieces of content per week.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 340,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "*Formats can be your typical marketing activities like social media posts, webinars, LinkedIn Lives, blog posts, etc.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 341,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Create a list of the top <NUMBER> competitors for <COMPANY NAME>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 342,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Discuss the key objectives and goals of our upcoming marketing campaign for <PRODUCT>, taking into account factors such as target audience, desired outcomes, and budget constraints. Our target audience is <AUDIENCE>. Our desired outcomes are <GOALS>. Our budget is <BUDGET>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 343,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Identify and analyze the primary target audience segments for <PRODUCT>, considering demographics, psychographics, and buyer behavior to inform our marketing strategy.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 344,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Examine the competitive landscape for <PRODUCT>, identifying key competitors, their strengths and weaknesses, and potential opportunities for differentiation and growth.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 345,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Develop a comprehensive multi-channel marketing plan for<PRODUCT>, outlining the specific tactics and strategies for each channel, including but not limited to, social media, content marketing, email marketing, and paid advertising.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 346,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Create a detailed content marketing strategy for <PRODUCT>, including content topics, formats, and distribution channels that align with our target audience and marketing objectives.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 347,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Create a plan for potential partnerships, collaborations, or co-marketing opportunities that could help amplify our marketing efforts for <PRODUCT> and reach new audiences.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 348,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Outline a plan for tracking and measuring the success of our marketing initiatives for <PRODUCT>, including the key performance indicators and analytics tools we should utilize to assess campaign performance.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 349,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Create a budget allocation plan for our marketing campaign, considering factors such as channel effectiveness, return on investment, and overall marketing goals for <PRODUCT>. Our overall marketing goals are <GOALS>.",
+        "final": false,
+        "category": "General Marketing"
+    },
+    {
+        "No.": 350,
+        "prompt_description": "Marketing Strategy",
+        "base_prompt": "Discuss potential marketing challenges or obstacles we may face when promoting <PRODUCT>, and propose potential solutions or mitigation strategies to overcome these challenges.",
+        "final": false,
+        "category": "General Marketing"
+    }
+]
