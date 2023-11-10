@@ -86,8 +86,8 @@ export default function Home() {
             className="bg-gray-50 border text-gray-900 text-sm rounded-lg focus:black focus:border-black block w-full p-2.5  border-gray-200 placeholder-gray-400 focus:ring-black max-w-[82rem] mb-2"
             onChange={(e) => setSelectedPrompt(e.target.value)}
           >
-            <option disabled selected>
-              Base Prompt
+            <option selected>
+              
             </option>
             {filteredPrompts.map((prompt, idx) => (
               <option key={idx} value={prompt.base_prompt}>
@@ -129,8 +129,8 @@ export default function Home() {
               className="bg-gray-50 border text-gray-900 text-sm rounded-lg focus:black focus:border-black block w-full p-2.5  border-gray-200 placeholder-gray-400 focus:ring-black mb-2"
               onChange={(e) => setSelectedLanguage(e.target.value)}
             >
-              <option disabled selected>
-                Language (Default English)
+              <option selected>
+                
               </option>
               {languages.map((language, idx) => (
                 <option key={idx} value={`Return your output in ${language}`}>
@@ -168,7 +168,7 @@ export default function Home() {
           className="bg-gray-50 border text-gray-900 text-sm rounded-lg focus:black focus:border-black block w-full p-2.5  border-gray-200 placeholder-gray-400 focus:ring-black max-w-[82rem] mb-2"
           onChange={(e) => setSelectedTones(e.target.value)}
         >
-          <option disabled selected>
+          <option selected>
             
           </option>
           {tones.map((tone, idx) => (
